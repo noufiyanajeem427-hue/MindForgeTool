@@ -47,8 +47,11 @@ Ensure you have the following installed on your machine:
 Structure of project
 
 mindforge/
-├── client/          # React Frontend application
+
+├── client/  # React Frontend application
+
 │   ├── public/
+
 │   └── src/
 │       ├── components/
 │       ├── pages/
