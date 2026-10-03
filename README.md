@@ -43,3 +43,21 @@ Ensure you have the following installed on your machine:
    ```bash
    git clone [https://github.com/yourusername/mindforge.git](https://github.com/yourusername/mindforge.git)
    cd mindforge
+
+Structure of project
+
+mindforge/
+├── client/          # React Frontend application
+│   ├── public/
+│   └── src/
+│       ├── components/
+│       ├── pages/
+│       └── App.js
+├── server/          # Node.js & Express API Backend
+│   ├── config/
+│   ├── controllers/
+│   ├── models/
+│   ├── routes/
+│   └── server.js
+├── .gitignore
+└── README.md
