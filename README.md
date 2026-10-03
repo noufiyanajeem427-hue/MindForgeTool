@@ -49,9 +49,7 @@ Structure of project
 mindforge/
 
 ├── client/  # React Frontend application
-
 │   ├── public/
-
 │   └── src/
 │       ├── components/
 │       ├── pages/
